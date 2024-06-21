@@ -1,0 +1,986 @@
+UMUR,SEX,TORAKS, HIV,DIABETES,TCM,LOKASI
+17,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+19,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+37,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+62,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+25,P,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+56,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+31,P,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+26,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+50,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+47,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+57,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+31,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+33,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+30,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+27,P,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+65,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+57,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+66,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+51,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+21,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+67,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+47,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+21,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+55,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+36,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+58,P,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+52,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+55,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+46,P,Positif,Negatif,Ya,Tidak dilakukan,Paru
+75,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+55,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+53,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+57,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+31,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+48,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+27,L,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+17,L,Tidak dilakukan,Negatif,Tidak diketahui,Tidak dilakukan,Ekstra paru
+49,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+18,L,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+18,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+19,L,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+24,L,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+13,L,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+14,L,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+57,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+35,L,Positif,Positif,Tidak,Tidak dilakukan,Paru
+35,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,L,Positif,Negatif,Tidak diketahui,Rif Sensitif,Paru
+54,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+52,L,Positif,Positif,Ya,Tidak dilakukan,Paru
+53,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+65,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+48,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+44,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+58,L,Positif,Positif,Tidak,Tidak dilakukan,Paru
+64,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+28,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+64,L,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+57,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+34,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+28,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+80,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+48,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+53,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+48,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+30,L,Positif,Negatif,Ya,Tidak dilakukan,Paru
+34,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+50,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+46,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+55,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+45,L,Positif,Negatif,Ya,Tidak dilakukan,Paru
+64,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+44,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+78,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+61,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+66,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+16,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+53,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+45,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+57,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+40,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+56,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+29,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+64,L,Positif,Negatif,Ya,Tidak dilakukan,Paru
+45,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+30,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+21,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+2,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+66,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+61,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+17,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+51,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+46,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+43,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+1,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+37,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+14,L,Negatif,Negatif,Tidak diketahui,Tidak dilakukan,Ekstra paru
+31,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+83,L,Positif,Negatif,Tidak,Negatif,Paru
+18,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+33,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+74,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+44,P,Positif,Positif,Tidak,Negatif,Paru
+13,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+13,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+20,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+57,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+17,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+31,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+69,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+32,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,L,Positif,Negatif,Tidak,Negatif,Paru
+22,P,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+42,L,Positif,Negatif,Tidak,Negatif,Paru
+46,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+76,P,Positif,Negatif,Tidak,Negatif,Paru
+20,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+43,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+73,L,Positif,Negatif,Tidak,Negatif,Paru
+42,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,L,Negatif,Negatif,Ya,Tidak dilakukan,Ekstra paru
+24,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+24,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+54,L,Positif,Negatif,Ya,Negatif,Paru
+59,L,Positif,Negatif,Tidak,Negatif,Paru
+17,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+43,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Tidak dilakukan,Negatif,Tidak,Rif Sensitif,Paru
+27,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+54,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+7,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+10,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+35,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+18,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+27,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+39,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+65,L,Positif,Negatif,Tidak,Negatif,Paru
+51,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+12,L,Negatif,Negatif,Tidak diketahui,Tidak dilakukan,Ekstra paru
+54,L,Tidak dilakukan,Negatif,Tidak,Rif Sensitif,Paru
+55,P,Positif,Negatif,Tidak,Negatif,Paru
+57,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+6,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+31,L,Positif,Positif,Tidak,Rif Sensitif,Paru
+43,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+48,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+23,L,Positif,Positif,Tidak,Tidak dilakukan,Paru
+53,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+52,L,Positif,Negatif,Tidak,Negatif,Paru
+47,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+53,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+45,P,Positif,Negatif,Tidak,Negatif,Paru
+8,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+19,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+53,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,P,Positif,Negatif,Tidak,Negatif,Paru
+32,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+24,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+53,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+74,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+42,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Negatif,Paru
+54,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+54,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+51,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+28,P,Positif,Positif,Tidak,Tidak dilakukan,Paru
+65,L,Positif,Negatif,Tidak,Negatif,Paru
+41,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+47,L,Positif,Negatif,Tidak,Negatif,Paru
+45,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+14,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+22,L,Positif,Negatif,Tidak,Negatif,Paru
+37,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+36,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+31,P,Positif,Negatif,Tidak,Negatif,Paru
+45,P,Positif,Negatif,Tidak,Negatif,Paru
+49,L,Positif,Negatif,Tidak,Negatif,Paru
+79,L,Positif,Negatif,Tidak,Negatif,Paru
+35,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+25,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+19,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+17,L,Positif,Negatif,Tidak,Rif resisten,Paru
+41,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Negatif,Paru
+69,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+70,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Negatif,Paru
+50,P,Positif,Negatif,Tidak,Negatif,Paru
+28,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+61,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+45,P,Positif,Negatif,Tidak,Negatif,Paru
+60,L,Positif,Negatif,Tidak,Negatif,Paru
+60,P,Positif,Negatif,Tidak,Negatif,Paru
+39,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+61,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+20,P,Positif,Negatif,Tidak,Negatif,Paru
+47,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+41,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,P,Positif,Negatif,Tidak,Negatif,Paru
+59,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+67,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+11,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,P,Positif,Negatif,Tidak,Negatif,Paru
+50,L,Positif,Negatif,Tidak,Negatif,Paru
+58,L,Positif,Negatif,Tidak,Negatif,Paru
+54,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+6,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+48,P,Positif,Negatif,Tidak,Negatif,Paru
+25,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+53,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,L,Positif,Negatif,Tidak diketahui,Negatif,Paru
+17,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+50,L,Positif,Positif,Tidak,Tidak dilakukan,Paru
+1,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+51,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+54,L,Positif,Negatif,Tidak,Negatif,Paru
+25,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+54,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+41,L,Positif,Negatif,Tidak,Negatif,Paru
+48,L,Positif,Negatif,Tidak,Negatif,Paru
+22,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+48,P,Positif,Negatif,Tidak,Negatif,Paru
+56,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+29,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+58,P,Positif,Negatif,Tidak,Negatif,Paru
+60,L,Positif,Negatif,Tidak,Negatif,Paru
+45,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+63,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+38,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,P,Positif,Negatif,Tidak,Negatif,Paru
+60,L,Positif,Negatif,Tidak,Negatif,Paru
+14,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+85,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Ya,Tidak dilakukan,Paru
+71,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+42,L,Positif,Negatif,Tidak,Negatif,Paru
+54,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,L,Positif,Positif,Tidak,Negatif,Paru
+27,L,Positif,Positif,Tidak,Tidak dilakukan,Paru
+37,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Positif,Negatif,Tidak,Negatif,Paru
+50,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+49,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,P,Positif,Negatif,Tidak,Negatif,Paru
+54,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+42,P,Positif,Negatif,Tidak,Negatif,Paru
+55,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+64,L,Positif,Negatif,Tidak,Negatif,Paru
+59,P,Positif,Negatif,Tidak,Negatif,Paru
+51,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+73,L,Positif,Negatif,Tidak,Negatif,Paru
+52,P,Positif,Negatif,Tidak,Negatif,Paru
+62,P,Positif,Negatif,Tidak,Negatif,Paru
+43,L,Positif,Negatif,Tidak,Negatif,Paru
+36,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+61,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+51,P,Positif,Negatif,Tidak,Negatif,Paru
+81,P,Positif,Negatif,Tidak,Negatif,Paru
+48,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+61,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+64,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+52,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+52,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+24,L,Positif,Negatif,Tidak,Negatif,Paru
+36,L,Positif,Negatif,Tidak,Rif resisten,Paru
+20,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+12,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+1,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+5,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+1,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+13,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+12,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+54,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+58,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,L,Negatif,Positif,Tidak,Tidak dilakukan,Ekstra paru
+54,L,Positif,Negatif,Tidak,Negatif,Paru
+57,L,Positif,Negatif,Tidak,Negatif,Paru
+51,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+35,L,Positif,Negatif,Tidak,Negatif,Paru
+28,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+55,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+23,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Tidak diketahui,Tidak,Negatif,Paru
+58,L,Positif,Negatif,Tidak,Negatif,Paru
+47,L,Positif,Negatif,Tidak,Negatif,Paru
+55,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+55,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+51,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+28,P,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+53,P,Positif,Tidak diketahui,Tidak,Negatif,Paru
+4,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+68,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+69,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+61,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+28,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,Negatif,Negatif,Ya,Tidak dilakukan,Ekstra paru
+35,P,Positif,Negatif,Tidak,Negatif,Paru
+50,L,Positif,Positif,Tidak,Negatif,Paru
+35,L,Positif,Negatif,Tidak,Negatif,Paru
+57,L,Positif,Negatif,Tidak,Negatif,Paru
+48,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+51,P,Positif,Negatif,Tidak,Negatif,Paru
+75,P,Positif,Negatif,Tidak,Negatif,Paru
+57,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+37,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+60,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+48,P,Positif,Negatif,Tidak,Negatif,Paru
+66,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+68,L,Positif,Negatif,Tidak,Negatif,Paru
+49,L,Positif,Negatif,Tidak,Negatif,Paru
+41,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+51,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+61,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+62,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,Positif,Negatif,Tidak,Negatif,Paru
+45,L,Positif,Negatif,Tidak,Negatif,Paru
+53,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+30,L,Positif,Negatif,Tidak,Negatif,Paru
+33,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+21,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+25,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+66,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+58,L,Positif,Negatif,Tidak,Negatif,Paru
+55,L,Positif,Negatif,Tidak,Negatif,Paru
+43,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+38,L,Positif,Negatif,Tidak,Negatif,Paru
+71,P,Positif,Negatif,Tidak,Negatif,Paru
+68,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+25,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+48,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+39,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+58,P,Positif,Negatif,Tidak,Negatif,Paru
+49,P,Negatif,Tidak diketahui,Ya,Tidak dilakukan,Ekstra paru
+19,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+32,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+30,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+29,P,Positif,Negatif,Tidak,Negatif,Paru
+17,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+42,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+66,P,Positif,Negatif,Tidak,Negatif,Paru
+59,P,Positif,Negatif,Tidak,Negatif,Paru
+50,L,Positif,Negatif,Tidak,Negatif,Paru
+65,L,Positif,Negatif,Tidak,Negatif,Paru
+33,L,Positif,Positif,Tidak,Negatif,Paru
+59,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+50,P,Positif,Negatif,Tidak,Negatif,Paru
+46,P,Positif,Tidak diketahui,Tidak,Negatif,Paru
+50,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,P,Positif,Negatif,Tidak,Negatif,Paru
+49,P,Negatif,Tidak diketahui,Ya,Tidak dilakukan,Ekstra paru
+19,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+48,L,Positif,Negatif,Ya,Tidak dilakukan,Paru
+64,L,Positif,Negatif,Tidak,Negatif,Paru
+54,P,Positif,Negatif,Tidak,Negatif,Paru
+38,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+66,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+83,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+64,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+77,P,Positif,Tidak diketahui,Ya,Negatif,Paru
+22,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+27,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+27,L,Positif,Positif,Tidak,Rif Sensitif,Paru
+70,P,Positif,Negatif,Tidak,Negatif,Paru
+44,P,Positif,Negatif,Tidak,Negatif,Paru
+55,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+81,P,Positif,Negatif,Tidak,Negatif,Paru
+45,L,Positif,Negatif,Tidak,Negatif,Paru
+21,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,P,Positif,Negatif,Tidak,Negatif,Paru
+33,L,Positif,Positif,Tidak,Rif Sensitif,Paru
+1,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+68,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+51,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+63,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+24,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+13,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+57,L,Negatif,Positif,Tidak,Tidak dilakukan,Ekstra paru
+1,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+17,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+14,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+28,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+44,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+44,P,Negatif,Negatif,Ya,Tidak dilakukan,Ekstra paru
+36,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+55,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+62,L,Positif,Negatif,Tidak,Negatif,Paru
+59,L,Positif,Negatif,Tidak,Negatif,Paru
+57,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+59,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+76,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+60,P,Positif,Negatif,Tidak,Negatif,Paru
+38,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+21,P,Positif,Negatif,Tidak,Negatif,Paru
+68,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,Positif,Negatif,Tidak,Negatif,Paru
+58,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+20,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+36,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+61,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,L,Negatif,Negatif,Tidak diketahui,Tidak dilakukan,Ekstra paru
+19,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+21,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+33,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+53,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,L,Positif,Negatif,Tidak,Negatif,Paru
+57,L,Positif,Negatif,Tidak,Negatif,Paru
+1,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+15,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+46,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+49,L,Positif,Negatif,Ya,Negatif,Paru
+63,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+32,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+54,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+52,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+38,L,Positif,Negatif,Tidak,Negatif,Paru
+25,P,Positif,Negatif,Tidak,Negatif,Paru
+23,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+47,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+26,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+64,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+37,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+40,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+21,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+49,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,L,Positif,Negatif,Tidak,Negatif,Paru
+41,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+45,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+27,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+18,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+15,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+64,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,P,Positif,Negatif,Tidak,Negatif,Paru
+27,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+25,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+8,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+38,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+1,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+78,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+28,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+69,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+82,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,P,Positif,Negatif,Tidak,Negatif,Paru
+47,P,Positif,Negatif,Tidak,Negatif,Paru
+40,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+34,P,Positif,Negatif,Tidak,Negatif,Paru
+76,P,Negatif,Negatif,Ya,Tidak dilakukan,Ekstra paru
+55,P,Positif,Negatif,Tidak,Negatif,Paru
+52,L,Negatif,Negatif,Ya,Tidak dilakukan,Ekstra paru
+54,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,L,Positif,Negatif,Tidak,Negatif,Paru
+75,L,Positif,Negatif,Tidak,Negatif,Paru
+41,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,Negatif,Positif,Tidak,Tidak dilakukan,Ekstra paru
+24,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+70,P,Positif,Negatif,Tidak,Negatif,Paru
+72,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+33,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Tidak,Negatif,Paru
+42,L,Positif,Negatif,Tidak,Negatif,Paru
+58,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,L,Positif,Negatif,Tidak,Negatif,Paru
+52,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+78,L,Positif,Negatif,Tidak,Negatif,Paru
+16,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+51,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+48,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+31,L,Positif,Negatif,Tidak,Negatif,Paru
+39,L,Positif,Negatif,Tidak,Negatif,Paru
+6,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+52,L,Positif,Negatif,Tidak,Negatif,Paru
+25,L,Positif,Negatif,Tidak,Negatif,Paru
+73,L,Positif,Negatif,Tidak,Negatif,Paru
+16,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+40,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+40,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+71,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+62,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+73,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+45,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+7,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+32,L,Positif,Negatif,Tidak,Negatif,Paru
+18,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+26,P,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+52,L,Positif,Positif,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+42,P,Tidak dilakukan,Positif,Tidak,Tidak dilakukan,Ekstra paru
+61,L,Positif,Negatif,Tidak,Negatif,Paru
+53,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+42,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+15,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+45,L,Positif,Negatif,Tidak,Negatif,Paru
+41,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+5,L,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+16,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+59,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,L,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+38,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+36,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+59,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+91,P,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+49,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+57,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+16,P,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+36,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,L,Positif,Positif,Tidak,Negatif,Paru
+72,P,Positif,Negatif,Tidak,Negatif,Paru
+76,L,Positif,Negatif,Tidak,Negatif,Paru
+59,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,Positif,Negatif,Tidak,Negatif,Paru
+67,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+26,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,L,Positif,Negatif,Tidak,Negatif,Paru
+60,L,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+56,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,L,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+44,L,Positif,Negatif,Tidak,Negatif,Paru
+56,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+20,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+70,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+55,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+61,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Positif,Negatif,Tidak,Negatif,Paru
+57,P,Positif,Negatif,Tidak,Negatif,Paru
+65,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+31,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+63,P,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+30,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+32,P,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+43,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+22,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+61,L,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+42,P,Positif,Negatif,Tidak,Negatif,Paru
+45,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+73,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+66,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+23,P,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+51,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+36,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+64,P,Positif,Negatif,Tidak,Negatif,Paru
+25,L,Positif,Negatif,Tidak,Negatif,Paru
+54,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+37,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+13,P,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+45,P,Positif,Negatif,Tidak,Negatif,Paru
+39,L,Positif,Negatif,Tidak,Negatif,Paru
+48,L,Positif,Negatif,Tidak,Negatif,Paru
+52,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+58,L,Positif,Negatif,Tidak,Negatif,Paru
+70,L,Positif,Negatif,Tidak,Negatif,Paru
+46,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+67,P,Positif,Negatif,Tidak,Negatif,Paru
+53,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+44,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+61,P,Positif,Negatif,Tidak,Negatif,Paru
+56,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+24,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,L,Positif,Negatif,Tidak,Negatif,Paru
+56,L,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+74,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+32,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+29,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+40,L,Positif,Negatif,Tidak,Negatif,Paru
+26,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+23,L,Positif,Negatif,Tidak,Negatif,Paru
+23,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+53,L,Positif,Negatif,Tidak,Negatif,Paru
+18,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+49,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+36,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+50,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+42,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+21,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+13,L,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+24,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+44,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+3,L,Positif,Positif,Tidak,Tidak dilakukan,Paru
+3,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+27,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+19,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+30,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+56,P,Positif,Tidak diketahui,Tidak,Negatif,Paru
+66,P,Positif,Negatif,Tidak,Negatif,Paru
+47,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+44,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+3,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+65,P,Positif,Negatif,Tidak,Negatif,Paru
+18,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+8,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+56,L,Positif,Negatif,Tidak,Negatif,Paru
+58,L,Positif,Tidak diketahui,Tidak,Negatif,Paru
+72,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+43,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+60,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+60,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+56,L,Positif,Negatif,Tidak,Negatif,Paru
+50,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+17,L,Positif,Negatif,Tidak,Negatif,Paru
+20,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+49,P,Positif,Negatif,Tidak,Rif resisten,Paru
+22,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+21,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+46,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+10,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+49,L,Positif,Tidak diketahui,Tidak,Negatif,Paru
+41,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+50,P,Positif,Negatif,Tidak,Negatif,Paru
+66,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+51,L,Negatif,Negatif,Ya,Tidak dilakukan,Ekstra paru
+40,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+38,P,Positif,Negatif,Tidak,Negatif,Paru
+33,L,Positif,Negatif,Tidak,Negatif,Paru
+59,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+69,L,Positif,Tidak diketahui,Tidak,Negatif,Paru
+38,L,Positif,Negatif,Ya,Rif Sensitif,Paru
+56,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+8,L,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+45,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+1,L,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+62,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+52,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+64,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,L,Positif,Negatif,Tidak,Negatif,Paru
+64,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+45,P,Positif,Negatif,Tidak,Negatif,Paru
+52,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+25,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+5,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+68,L,Positif,Negatif,Tidak,Negatif,Paru
+59,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,P,Positif,Negatif,Tidak,Negatif,Paru
+47,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+19,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,P,Positif,Negatif,Tidak,Rif resisten,Paru
+33,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+20,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+78,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+36,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+21,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+76,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+49,L,Positif,Negatif,Tidak,Negatif,Paru
+70,P,Positif,Negatif,Tidak,Negatif,Paru
+69,L,Positif,Tidak diketahui,Tidak,Negatif,Paru
+46,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+47,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+80,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+21,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+51,P,Positif,Tidak diketahui,Tidak,Negatif,Paru
+20,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+24,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+46,P,Positif,Negatif,Tidak,Negatif,Paru
+75,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,L,Positif,Tidak diketahui,Tidak,Rif resisten,Paru
+50,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+53,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+13,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+36,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+59,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+87,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+51,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+19,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+41,P,Positif,Negatif,Tidak,Negatif,Paru
+52,L,Positif,Tidak diketahui,Tidak,Negatif,Paru
+17,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+14,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+45,L,Positif,Negatif,Tidak,Negatif,Paru
+20,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+29,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+64,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+64,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+17,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+19,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+50,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+23,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+20,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+60,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+14,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+34,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+68,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+78,L,Positif,Tidak diketahui,Ya,Negatif,Paru
+35,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+28,P,Positif,Tidak diketahui,Tidak,Negatif,Paru
+12,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+76,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+61,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+67,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+36,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+27,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+15,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+32,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+72,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+68,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+60,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+17,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+59,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+54,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+34,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+77,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+68,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+3,L,Positif,Tidak diketahui,Tidak,Negatif,Paru
+71,L,Positif,Tidak diketahui,Tidak,Negatif,Paru
+29,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+60,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+35,P,Positif,Tidak diketahui,Tidak,Negatif,Paru
+25,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+17,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+27,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+36,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+69,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+29,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+46,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+70,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+62,L,Positif,Tidak diketahui,Tidak,Negatif,Paru
+62,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+58,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+65,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+22,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+43,L,Negatif,Tidak diketahui,Ya,Tidak dilakukan,Ekstra paru
+42,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+65,L,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+57,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+65,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+43,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+20,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+43,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+71,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+87,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+56,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+78,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+37,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+58,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+61,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+62,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+51,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+53,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+35,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+16,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+17,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+25,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+43,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+15,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+26,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+51,P,Positif,Negatif,Tidak,Negatif,Paru
+61,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+22,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+18,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+23,P,Tidak dilakukan,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+67,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+69,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+26,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+60,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+13,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+38,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+58,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+52,P,Positif,Tidak diketahui,Tidak,Negatif,Paru
+17,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+17,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+30,L,Positif,Tidak diketahui,Tidak,Rif resisten,Paru
+51,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+79,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+44,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+38,L,Positif,Positif,Tidak,Negatif,Paru
+44,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+25,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+54,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+16,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+15,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+64,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+31,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+25,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+31,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+57,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+56,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+64,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+20,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+60,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+46,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+65,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+35,L,Positif,Negatif,Tidak diketahui,Rif Sensitif,Paru
+31,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+71,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+72,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+50,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+11,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+38,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+16,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+2,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+30,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+17,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+52,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+61,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+49,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+15,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+66,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+26,P,Positif,Positif,Tidak,Rif Sensitif,Paru
+21,L,Negatif,Positif,Tidak,Tidak dilakukan,Ekstra paru
+11,L,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+34,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+3,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+13,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+47,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,L,Positif,Positif,Tidak,Rif Sensitif,Paru
+24,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+44,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+32,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+55,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+56,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+56,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+37,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+15,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+34,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+68,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+55,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+50,L,Negatif,Tidak diketahui,Ya,Tidak dilakukan,Ekstra paru
+37,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+14,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+17,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+70,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+29,P,Positif,Negatif,Ya,Rif Sensitif,Paru
+53,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+55,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+69,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+64,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+18,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+20,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+21,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+58,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+19,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+54,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+69,L,Negatif,Tidak diketahui,Ya,Tidak dilakukan,Ekstra paru
+21,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+23,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+29,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+19,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+41,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+16,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+58,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+59,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+36,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+13,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+55,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+66,L,Negatif,Tidak diketahui,Ya,Tidak dilakukan,Ekstra paru
+6,L,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+10,L,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+51,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+49,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+24,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+47,L,Positif,Tidak diketahui,Tidak,Negatif,Paru
+19,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+53,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+60,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+29,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+31,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+46,L,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+59,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+65,L,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+4,P,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+34,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+16,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+52,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+64,L,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+54,L,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+32,L,Positif,Negatif,Tidak,Rif Sensitif,Paru
+70,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+40,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+70,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+28,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+54,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+23,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+56,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+55,L,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+69,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+43,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+66,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+41,L,Positif,Positif,Tidak,Rif Sensitif,Paru
+44,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+46,P,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+42,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+54,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+11,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+46,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+21,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+62,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+49,P,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+61,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+46,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+56,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+21,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+28,L,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+39,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+26,P,Positif,Negatif,Tidak,Rif Sensitif,Paru
+1,L,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+57,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+24,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+61,P,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+44,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+31,L,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+16,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+53,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+17,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+16,L,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+69,P,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+68,L,Positif,Tidak diketahui,Tidak,Negatif,Paru
